@@ -2,7 +2,7 @@ Fragment Caching
 ================
 
 Fragment caching refers to caching a fragment of a Web page. For example, if a page displays a summary of
-yearly sale in a table, you can store this table in cache to eliminate the time needed to generate this table
+yearly sale in a table, you can store this table in cache to eliminate the time need to generate this table
 for each request. Fragment caching is built on top of [data caching](caching-data.md).
 
 To use fragment caching, use the following construct in a [view](structure-views.md):
